@@ -1,0 +1,4 @@
+name = "DOT"
+grammar = "dot"
+path_suffixes = ["dot", "gv", "DOT"]
+line_comments = ["// ", "# "]
