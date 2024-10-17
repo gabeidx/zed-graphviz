@@ -2,6 +2,8 @@
 
 An extension that adds Graphviz support for Zed.
 
+<img src="./img/syntax-highlight.png" alt="A snippet of Graphviz code in the Zed editor, with the syntax highlighted" />
+
 Learn more about Graphviz at <https://graphviz.org>
 
 ## Acknowledgments
