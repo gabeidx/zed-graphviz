@@ -9,3 +9,7 @@ repository = "https://github.com/gabeidx/zed-graphviz"
 [grammars.dot]
 repository = "https://github.com/rydesun/tree-sitter-dot"
 commit = "9ab85550c896d8b294d9b9ca1e30698736f08cea"
+
+[language_servers.dot-language-server]
+name = "Graphviz DOT LSP"
+language = "DOT"
