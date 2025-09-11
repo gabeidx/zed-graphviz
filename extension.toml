@@ -1,6 +1,6 @@
 id = "graphviz"
 name = "Graphviz"
-version = "0.1.0"
+version = "0.2.0"
 schema_version = 1
 authors = ["Gabriel Silva <gabe@gabe.id>"]
 description = "Graphviz support."
