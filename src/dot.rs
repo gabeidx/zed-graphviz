@@ -11,7 +11,7 @@ impl DotLspExtension {
     ) -> Result<String> {
         worktree
             .which("dot-language-server")
-            .ok_or(String::from("Ensure dot-language-server is in PATH"));
+            .ok_or(String::from("Ensure dot-language-server is in PATH"))
     }
 }
 
